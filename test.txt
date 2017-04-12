@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 94FB-EEDC
+
+ Directory of C:\Users\User\Desktop\MyGitProject
+
+04/11/2017  06:01 PM    <DIR>          .
+04/11/2017  06:01 PM    <DIR>          ..
+04/11/2017  06:01 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  210,095,288,320 bytes free
